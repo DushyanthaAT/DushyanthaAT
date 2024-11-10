@@ -3,7 +3,7 @@
   <ul align="left" style="display: inline">
     <summary style="display: inline"><h1 style="display: inline">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> <br>I'm Dushyantha Thilakarathne</h1>
       <img align="right" alt="Hi" width="250" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" ></summary>
-      <h5 style="font-color:red"><i>Software engineering undergrauate with a passion for crafting impactful digital experiences and innovative solutions</i></h5>
+      <span><i>Software engineering undergrauate with a passion for crafting impactful digital experiences and innovative solutions</i></span>
   </ul>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="margin : 0">
 </div>
