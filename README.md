@@ -48,10 +48,10 @@
 <table align="center">
 <tr border="none">
 <td align="left"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=DushyanthaAT&count_private=true&show_icons=true&&theme=dark&include_all_commits=true" height="200">
+  <img src="https://github-readme-stats.vercel.app/api?username=DushyanthaAT&count_private=true&show_icons=true&&theme=dark&include_all_commits=true&hide_border=true" height="200">
 </td>
 <td align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DushyanthaAT&layout=compact&hide=TSQL&theme=dark" height="200">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DushyanthaAT&layout=compact&hide=TSQL&theme=dark&hide_border=true" height="200">
 </td>
 </tr>
 </table>
