@@ -111,15 +111,15 @@
   <span><img alt="Static Badge" src="https://img.shields.io/badge/firebase-323330?style=for-the-badge&logo=firebase&logoColor=%23DD2C00"></span>
 </div>
 
-<h3 align="center">Frameworks, Platforms & Libraries</h3>
+<h3 align="center">Design</h3>
 <div align="center">
-  <span></span>
+  <span><img alt="Static Badge" src="https://img.shields.io/badge/adobexd-323330?style=for-the-badge&logo=adobexd&logoColor=%23FF61F6"></span>
   &nbsp;
-  <span></span>
+  <span><img alt="Static Badge" src="https://img.shields.io/badge/figma-323330?style=for-the-badge&logo=figma&logoColor=%23F24E1E"></span>
   &nbsp;
-  <span></span>
+  <span><img alt="Static Badge" src="https://img.shields.io/badge/photoshop-323330?style=for-the-badge&logo=adobephotoshop&logoColor=%2331A8FF"></span>
   &nbsp;
-  <span></span>
+  <span><img alt="Static Badge" src="https://img.shields.io/badge/illustrator-323330?style=for-the-badge&logo=adobeillustrator&logoColor=%23FF9A00"></span>
   &nbsp;
   <span></span>
   &nbsp;
@@ -133,5 +133,24 @@
   &nbsp;
 </div>
 
-
+<h3 align="center">Other</h3>
+<div align="center">
+  <span><img alt="Static Badge" src="https://img.shields.io/badge/docker-323330?style=for-the-badge&logo=docker&logoColor=%232496ED"></span>
+  &nbsp;
+  <span><img alt="Static Badge" src="https://img.shields.io/badge/unity-323330?style=for-the-badge&logo=unity&logoColor=%23FFFFFF"></span>
+  &nbsp;
+  <span><img alt="Static Badge" src="https://img.shields.io/badge/git-323330?style=for-the-badge&logo=git&logoColor=%23F05032"></span>
+  &nbsp;
+  <span><img alt="Static Badge" src="https://img.shields.io/badge/github-323330?style=for-the-badge&logo=github&logoColor=ffffff"></span>
+  &nbsp;
+  <span><img alt="Static Badge" src="https://img.shields.io/badge/cisco-323330?style=for-the-badge&logo=cisco&logoColor=%231BA0D7"></span>
+  &nbsp;
+  <span><img alt="Static Badge" src="https://img.shields.io/badge/jira-323330?style=for-the-badge&logo=jira&logoColor=%230052CC"></span>
+</div>
 <br>
+
+--- 
+
+[![An image of @dushyanthaat's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dushyanthaat)](https://holopin.io/@dushyanthaat)
+
+
