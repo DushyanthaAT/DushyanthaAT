@@ -76,8 +76,6 @@
   &nbsp;
   <span><img alt="Static Badge" src="https://img.shields.io/badge/dart-323330?style=for-the-badge&logo=dart&logoColor=%2300A758"></span>
   &nbsp;
-  <span><img alt="Static Badge" src="https://img.shields.io/badge/dart-323330?style=for-the-badge&logo=dart&logoColor=%2300A758"></span>
-  &nbsp;
   <span><img alt="Static Badge" src="https://img.shields.io/badge/html-323330?style=for-the-badge&logo=html5"></span>
   &nbsp;
   <span><img alt="Static Badge" src="https://img.shields.io/badge/css-323330?style=for-the-badge&logo=css3&logoColor=%231572B6"></span>
@@ -96,7 +94,7 @@
   &nbsp;
   <span><img alt="Static Badge" src="https://img.shields.io/badge/mui-323330?style=for-the-badge&logo=mui&logoColor=%23007FFF"></span>
   &nbsp;
-  <span><img alt="Static Badge" src="https://img.shields.io/badge/nodedotjs-323330?style=for-the-badge&logo=nodedotjs&logoColor=%235FA04E"></span>
+  <span><img alt="Static Badge" src="https://img.shields.io/badge/NodeJS-323330?style=for-the-badge&logo=nodedotjs&logoColor=%235FA04E"></span>
   &nbsp;
   <span><img alt="Static Badge" src="https://img.shields.io/badge/expressJS-323330?style=for-the-badge&logo=express&logoColor=%23ffffff"></span>
   &nbsp;
