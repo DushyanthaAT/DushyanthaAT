@@ -151,6 +151,28 @@
 
 --- 
 
+</br>
+
 [![An image of @dushyanthaat's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dushyanthaat)](https://holopin.io/@dushyanthaat)
 
+</br>
 
+--- 
+
+<div id="user-content-toc" style="display: inline">
+  <ul align="center" style="display: inline">
+    <summary style="display: inline"><h1 align="center">Contact Me</h1></summary>
+  </ul>
+</div>
+
+<p align="center">
+	<a href="mailto:dushyanthaat@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/DushyanthaAT"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://linkedin.com/in/dushyantha-thilakarathne"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.behance.net/dushyanthilaka"><img src="https://img.icons8.com/bubbles/50/000000/behance.png" alt="Behance"/></a>
+	<a href="https://www.facebook.com/dushyantha.tilakarathne"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://www.instagram.com/_dush.yan.tha_/?hl=en"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>	
+</p>
+</br>
+
+--- 
